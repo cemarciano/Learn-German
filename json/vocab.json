@@ -104,5 +104,11 @@
 		"word": "zuerst",
 		"meaning": "first",
 		"phrase": "Wer zuerst kommt, mahlt zuerst (first come, first serve; the early bird gets the worm)"
+	},
+	{
+		"word": "los geht's",
+		"meaning": "let's go",
+		"phrase": "Los geht's!",
+		"audio": "losgehts"
 	}
 ]
