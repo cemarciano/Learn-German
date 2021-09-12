@@ -1,0 +1,96 @@
+@font-face {
+    font-family: "Simonetta";
+    src: url('fonts/Simonetta-Black.ttf');
+}
+
+@font-face {
+	font-family: "Trebuchet MS";
+	src: url('fonts/Trebuchet-MS.ttf');
+}
+
+@font-face {
+	font-family: "Gill Sans";
+	src: url('fonts/GillSansStd.otf');
+}
+
+.ui-page-active { outline: none; }
+
+body {
+  background: #eef1f3;
+  user-select: none;
+}
+
+.wrapper {
+	text-align:center;
+}
+
+h1, h2, h3 {
+	font-family: "Gill Sans";
+	display: block;
+	animation: fadein 0.3s;
+}
+
+h1 {
+	font-size: calc(4vw + 4vh);
+}
+
+h2 {
+	font-size: calc(1.3vw + 1.8vh);
+}
+
+h3 {
+	font-size: calc(0.9vw + 1vh);
+}
+
+.center {
+	position: absolute;
+	left: 50%;
+	top: 45%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Upper progress bar */
+
+
+.progress-wrapper {
+	margin: 3vh 2vw 0vh 2vw;
+}
+
+.progress-bar {
+  border-radius: 60px;
+  overflow: hidden;
+  height: 100%;
+}
+
+.progress-bar span {
+  display: block;
+}
+
+.bar {
+  background: rgba(0, 0, 0, 0.075);
+}
+
+.progress {
+  background: #75b800;
+  color: #fff;
+  height: 2vh;
+  width: 0%;
+}
+
+body {
+	text-align: center;
+}
+
+.progress-text {
+	position: absolute;
+	top: 3.2vh;
+	font-size: 1.4vh;
+	color: white;
+	text-shadow: 0.07vh 0 0 #000, 0 -0.07vh 0 #000, 0 0.07vh 0 #000, -0.07vh 0 0 #000;
+}

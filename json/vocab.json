@@ -1,0 +1,108 @@
+[
+	{
+		"word": "schauen",
+		"meaning": "to look, to watch",
+		"phrase": ["Hinter die Fassaden schauen (to look behind the façade)", "Mein Vater schaut Sport nur im Fernsehen"]
+	},
+	{
+		"word": "sehen",
+		"meaning": "to see",
+		"phrase": ["Können wir bitte die Speisekarte sehen? (can we see the menu please?)", "In der Ferne kann ich die Berge sehen"]
+	},
+	{
+		"word": "der Ferne",
+		"meaning": "the distance",
+		"phrase": ["in der Ferne (in the distance)", "In der Ferne kann ich die Berge sehen"],
+		"audio": "ferne"
+	},
+	{
+		"word": "der Berg",
+		"meaning": "the mountain",
+		"phrase": "In der Ferne kann ich die Berge sehen",
+		"audio": "berg"
+	},
+	{
+		"word": "hinter",
+		"meaning": "behind",
+		"phrase": "Hinter dem Berge wohnen auch Leute (behind the mountains live people too)"
+	},
+	{
+		"word": "die Leute",
+		"meaning": "the people",
+		"phrase": "Spaß haben heute alle Leute (everyone has fun today)",
+		"audio": "leute"
+	},
+	{
+		"word": "trinken",
+		"meaning": "to drink",
+		"phrase": "Ich gehe einen Kaffee trinken"
+	},
+	{
+		"word": "viel",
+		"meaning": "much, a lot of",
+		"phrase": "Wie viel Uhr ist es? (what time is it?)"
+	},
+	{
+		"word": "wissen",
+		"meaning": "to know",
+		"phrase": "Ich weiß es nicht"
+	},
+	{
+		"word": "der Monat",
+		"meaning": "the month",
+		"phrase": "letzter Monat",
+		"audio": "monat"
+	},
+	{
+		"word": "schlecht",
+		"meaning": "bad",
+		"phrase": ["(slang) Nicht schlecht, Herr Specht! (not bad at all!)", "Das Wetter ist schlecht hier"]
+	},
+	{
+		"word": "wohnen",
+		"meaning": "to live, to reside (habiter)",
+		"phrase": "Wo wohnen Sie? In Hamburg. (where do you live? In Hamburg)"
+	},
+	{
+		"word": "oft",
+		"meaning": "often",
+		"phrase": ["Kommst du oft hierher? (do you come here often?)", "Es regnet oft und es ist kalt"]
+	},
+	{
+		"word": "kalt",
+		"meaning": "cold",
+		"phrase": ["Mir ist kalt (I'm feeling cold)", "Es regnet oft und es ist kalt"]
+	},
+	{
+		"word": "vermissen",
+		"meaning": "to miss",
+		"phrase": ["Ich vermisse es, keinen Hund zu haben (I miss not having a dog)", "Ich vermisse die Sonne und das Meer"]
+	},
+	{
+		"word": "gemeinsam",
+		"meaning": "together",
+		"phrase": "Ich wohne gemeinsam mit anderen Leuten"
+	},
+	{
+		"word": "das Fenster",
+		"meaning": "the window",
+		"phrase": "Ich schaue aus dem Fenster (I look out the window)",
+		"audio": "fenster"
+	},
+	{
+		"word": "leben",
+		"meaning": "to live (vivre)",
+		"phrase": "Das Leben ist eine Reise (Life is a journey)"
+	},
+	{
+		"word": "die Reise",
+		"meaning": "trip, journey",
+		"phrase": "Gute Reise",
+		"audio": "reise"
+	},
+	{
+		"word": "zuerst",
+		"meaning": "first",
+		"phrase": "Wer zuerst kommt, mahlt zuerst (first come, first serve; the early bird gets the worm)"
+	}
+]
